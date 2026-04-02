@@ -1,3 +1,4 @@
+HEAD
 # 📧 Email Validator (Python)
 
 A simple yet robust Python program designed to validate email inputs with clean logic and enhanced handling of edge cases.
@@ -83,3 +84,7 @@ arshadMLdev
 ## ⭐ Support
 
 If you found this useful, consider giving it a star!
+
+# email-validator
+Built a Python-based email validation system with enhanced input sanitization, precise condition checks, and improved handling of edge cases.
+f22827d2dfb31ff68a91fb4b9830b8a3e742376d
